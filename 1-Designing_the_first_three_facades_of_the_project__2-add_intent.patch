@@ -1,0 +1,14 @@
+Index: app/src/main/java/com/example/thingstodo/screen2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/thingstodo/screen2.java	(revision aaf7b48cae15ebf189e7a23150eea2e6d5ac7eff)
++++ app/src/main/java/com/example/thingstodo/screen2.java	(date 1607129220098)
+@@ -21,4 +21,4 @@
+             }
+         });
+     }
+-}
+\ No newline at end of file
++}

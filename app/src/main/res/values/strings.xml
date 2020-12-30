@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ThingsToDo</string>
+    <string name="log_out"><u>Logout</u></string>
+
 </resources>

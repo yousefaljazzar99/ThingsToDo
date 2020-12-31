@@ -63,7 +63,7 @@ public class ListActivity extends AppCompatActivity {
             public void onClick(View v) {
                 FirebaseAuth.getInstance().signOut();
                 Toast.makeText(ListActivity.this, "Signed Out", Toast.LENGTH_SHORT).show();
-                Intent i = new Intent(ListActivity.this, screen3.class);
+                Intent i = new Intent(ListActivity.this, Login.class);
                 startActivity(i);
             }
         });

@@ -55,7 +55,6 @@
         android:layout_marginTop="30dp"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp" />
-
     <Button
         android:id="@+id/create"
         android:layout_width="match_parent"
@@ -68,7 +67,6 @@
         android:layout_marginTop="30dp"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

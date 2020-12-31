@@ -34,15 +34,12 @@ public class Signup extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.signup);
         mAuth = FirebaseAuth.getInstance();
         password=findViewById(R.id.password);
         email=findViewById(R.id.email);
         create=findViewById(R.id.create);
-
-
         create.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

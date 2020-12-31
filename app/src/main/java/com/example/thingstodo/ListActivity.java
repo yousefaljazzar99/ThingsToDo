@@ -18,11 +18,9 @@ import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.firebase.auth.FirebaseAuth;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
 
 public class ListActivity extends AppCompatActivity {
 
